@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "ip: ONEPIECE13-Eez1.aternos.me",
-    "port":47761 ,
+    "port":47761,
     "version": "1.21.11",
     "try-creative": false
   },

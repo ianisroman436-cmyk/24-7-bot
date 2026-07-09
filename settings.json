@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Lipopo02.aternos.me",
-    "port": ,
+    "port":29327 ,
     "version": "1.20.1",
     "try-creative": false
   },

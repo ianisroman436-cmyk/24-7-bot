@@ -29,9 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 30,
       "messages": [
-        "I'm a regular player",
+        "seba is boss",
         "Subscribe to IosifSeba!",
         "my favorite server!"
       ]
